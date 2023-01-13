@@ -1,3 +1,68 @@
+// strict equality operator
+
+//console.log(1 === 1);
+
+//console.log("1" === "1");
+
+
+// lose euality operator
+
+//console.log(1 == 1);
+
+//console.log('1'=='1');
+
+//console.log(true == '1');
+
+
+// conditional statements
+
+//let condition = true;
+
+//if (condition) {
+    //console.log("condition:true")
+
+//}
+
+//else{
+    //console.log("condition:false")
+//}
+
+//let weather = "cold";
+
+//if (weather === "hot"){
+
+  //  console.log("weather is hot")
+//}
+
+//else {
+  //  console.log("weather is cold")
+//}
+
+
+
+//My Example
+
+//{if the player is more than 1000 points = diamond;
+
+//else if the player is more than 2000 points = crown;
+
+//else the person is more than 3000 points = ace;}
+
+//let player = 1000;
+
+//if player { (player >= 1000 || player <=1000)
+    
+    
+  //  console.log(diamond);
+
+//}else{
+
+//(player => 2000 || player <=2000;)
+
+  //console.log(crown)
+
+//}
+
 //switch case
 
 let marks = 90;
@@ -18,9 +83,3 @@ case marks > 90:
 
 console.log("superGrade")
 }
-
-
-
-
-
-
