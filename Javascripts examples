@@ -38,7 +38,7 @@
   //  console.log("weather is cold")
 //}
 
-
+-------------------
 
 //My Example
 
@@ -63,6 +63,9 @@
 
 //}
 
+
+---------------
+
 //switch case
 
 let marks = 90;
@@ -83,3 +86,22 @@ case marks > 90:
 
 console.log("superGrade")
 }
+
+------------
+
+For Loop example:
+
+
+
+for (let i = 100; i >= 1; i--){
+
+if (i % 2 !== 0){
+
+  console.log("Even Number " + i)}
+
+}
+
+--------------
+
+
+
