@@ -34,6 +34,7 @@
   //  console.log("weather is hot")
 //}
 
+
 //else {
   //  console.log("weather is cold")
 //}
@@ -103,5 +104,23 @@ if (i % 2 !== 0){
 
 --------------
 
+loops:
 
+
+for loop:
+
+symtax:
+
+for (initial expression;condition;step){
+console.log("number #1");
+}
+
+
+example:
+
+for(i=0;i<5;i++){
+
+console.log("number #",i);
+
+}
 
